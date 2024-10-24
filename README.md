@@ -1,5 +1,5 @@
 - # Olá, sou @PauloMPPatricio 👋
-- ## Sobe Mim:
+- ## Sobre Mim:
 - 👀 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por inovação e tecnologia.
 -    Sou formado em Petróleo e Gás, atuei como Projetista de Estruturas, por aproximadamente 15 anos no setor de Contrução Civil e Industrial.
 -    Atualmente, estou explorando áreas como Desenvolvimento Sistemas e Web, e estou sempre afim de aprender e aplicar novas tecnologias em projetos práticos.
